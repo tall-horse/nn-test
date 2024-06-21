@@ -1,5 +1,5 @@
 #unity-container {
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -18,14 +18,14 @@ ul {
 }
 
 #unity-loading-bar {
-  position: absolute;
+  /* position: absolute; */
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 #unity-footer {
-  position: absolute;
+  /* position: absolute; */
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
